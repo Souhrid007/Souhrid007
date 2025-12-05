@@ -12,8 +12,8 @@
 
 🎓 MTech in **Cyber Forensics & Information Security**  
 🔐 Aspiring **SOC Analyst / Security Engineer**  
-💻 Strong foundation in **secure software development**  
-🧠 Passionate about **forensics, cryptography, intrusion detection & AI security**  
+💻 Strong foundation in **Secure Software Development**  
+🧠 Passionate about **Digital Forensics, Cryptography, Intrusion Detection, AI security & Software Development**  
 🎯 Goal: Defend real-world systems from cyber attacks  
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-## 🔐 Cybersecurity Skills (SOC Focused)
+## 🔐 Cybersecurity Skills
 
 - Security Operations Center (SOC) Monitoring  
 - Network Traffic Analysis & Packet Inspection  
@@ -44,7 +44,7 @@
 
 ---
 
-## 📂 Featured Cybersecurity Projects
+## 📂 Featured Projects
 
 ### 🔒 Secure Diabetes Prediction using Homomorphic Encryption
 Designed a **privacy-preserving medical ML system** where encrypted patient data is processed securely without revealing sensitive values.
@@ -97,7 +97,7 @@ Developed an **AI-based voice attack detection system** using CNN to prevent rep
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](ADD_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/souhridsuresh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](ADD_PORTFOLIO)
 
 ---
