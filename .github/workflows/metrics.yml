@@ -2,16 +2,20 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs once per day
-  workflow_dispatch: # allow manual runs
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# ✅ THIS IS THE FIX (ADD WRITE PERMISSION)
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Uses the default GitHub token for public data
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Souhrid007
           template: classic
