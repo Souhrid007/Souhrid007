@@ -67,38 +67,20 @@ Developed an **AI-based voice attack detection system** using CNN to prevent rep
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souhrid007&theme=dracula&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souhrid007&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souhrid007&layout=compact&theme=radical"/>
-</p>
-
 ---
 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souhrid007/Souhrid007/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/Souhrid007/Souhrid007/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/souhridsuresh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](ADD_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhridsuresh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://souhrid007.github.io)
 
 ---
 
